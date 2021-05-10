@@ -13,6 +13,6 @@ Check them out at [Wickedly Smart](https://www.wickedlysmart.com).
 
 <p>
     I learnt HTML and CSS, then proceeded to VanillaJs.<br/>
-    And I told myself, to move on and convince myself that I'm ready for MERN, why not build a project. 
+    And I told myself, "to move on and convince myself that I'm ready for MERN, why not build a project". 
 </p>
 And i decided to share it....soooo, dig in folks.
